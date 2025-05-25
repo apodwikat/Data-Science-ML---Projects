@@ -1,0 +1,11 @@
+Coordinates for Each City (0.25x0.25)
+
+Format (minimum longitude, minimum latitude, maximum longitude, maximum latitude)
+
+34.5165, 36.6871, 34.7665, 36.8371 Mersin
+
+26.9178, 38.2987, 27.1678, 38.5487 Izmir
+
+35.2590, 36.4414, 35.5090, 36.6914 Adana
+
+30.5883, 36.6719, 30.8383, 36.9219 Antalya
